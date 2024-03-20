@@ -320,7 +320,7 @@ input[type="submit"] {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #beb45a;
+  background-color: #767039;
   border-radius: 0;
 }
 .nav-pills .nav-link {
@@ -466,4 +466,8 @@ input[type="submit"] {
   .picture {
     width: 80%;
   }
+}
+
+.form-container h1{
+    font-size: 2.5rem;
 }
